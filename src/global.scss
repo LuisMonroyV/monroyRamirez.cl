@@ -24,3 +24,480 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+ion-toolbar {
+    --background: transparent;
+    --ion-color-base: transparent !important;
+    }
+body {
+    -webkit-user-select: text;
+    user-select: text;
+}
+.opacity-0 {
+    opacity: 0 !important;
+  }
+  
+.opacity-1 {
+opacity: 0.1 !important;
+}
+
+.opacity-2 {
+opacity: 0.2 !important;
+}
+
+.opacity-3 {
+opacity: 0.3 !important;
+}
+
+.opacity-4 {
+opacity: 0.4 !important;
+}
+
+.opacity-5 {
+opacity: 0.5 !important;
+}
+
+.opacity-6 {
+opacity: 0.6 !important;
+}
+
+.opacity-7 {
+opacity: 0.7 !important;
+}
+
+.opacity-8 {
+opacity: 0.8 !important;
+}
+
+.opacity-9 {
+opacity: 0.9 !important;
+}
+
+.opacity-10, 
+.opaque {
+    opacity: 1 !important;
+}
+
+.fondoPhone0 {
+    --background: url("/assets/images/background/0.jpg") no-repeat center center / cover;
+}
+.fondoPhone1 {
+    --background: url("/assets/images/background/1.jpg") no-repeat center center / cover;
+}
+.fondoPhone2 {
+    --background: url("/assets/images/background/2.jpg") no-repeat center center / cover;
+}
+.fondoPhone3 {
+    --background: url("/assets/images/background/3.jpg") no-repeat center center / cover;
+}
+.fondoPhone4 {
+    --background: url("/assets/images/background/4.jpg") no-repeat center center / cover;
+}
+.fondoPhone5 {
+    --background: url("/assets/images/background/5.jpg") no-repeat center center / cover;
+}
+.fondoPhone6 {
+    --background: url("/assets/images/background/6.jpg") no-repeat center center / cover;
+}
+.fondoPhone7 {
+    --background: url("/assets/images/background/7.jpg") no-repeat center center / cover;
+}
+.fondoPhone8 {
+    --background: url("/assets/images/background/8.jpg") no-repeat center center / cover;
+}
+.fondoPhone9 {
+    --background: url("/assets/images/background/9.jpg") no-repeat center center / cover;
+}
+.fondoPhone10 {
+    --background: url("/assets/images/background/10.jpg") no-repeat center center / cover;
+}
+.fondoPhone11 {
+    --background: url("/assets/images/background/11.jpg") no-repeat center center / cover;
+}
+.fondoPhone12 {
+    --background: url("/assets/images/background/12.jpg") no-repeat center center / cover;
+}
+.fondoPhone13 {
+    --background: url("/assets/images/background/13.jpg") no-repeat center center / cover;
+}
+.fondoPhone14 {
+    --background: url("/assets/images/background/14.jpg") no-repeat center center / cover;
+}
+.fondoPhone15 {
+    --background: url("/assets/images/background/15.jpg") no-repeat center center / cover;
+}
+.fondoPhone16 {
+    --background: url("/assets/images/background/16.jpg") no-repeat center center / cover;
+}
+.fondoPhone17 {
+    --background: url("/assets/images/background/17.jpg") no-repeat center center / cover;
+}
+.fondoPhone18 {
+    --background: url("/assets/images/background/18.jpg") no-repeat center center / cover;
+}
+.fondoPhone19 {
+    --background: url("/assets/images/background/19.jpg") no-repeat center center / cover;
+}
+.fondoPhone20 {
+    --background: url("/assets/images/background/20.jpg") no-repeat center center / cover;
+}
+.fondoPhone21 {
+    --background: url("/assets/images/background/21.jpg") no-repeat center center / cover;
+}
+.fondoPhone22 {
+    --background: url("/assets/images/background/22.jpg") no-repeat center center / cover;
+}
+.fondoPhone23 {
+    --background: url("/assets/images/background/23.jpg") no-repeat center center / cover;
+}
+.fondoPhone24 {
+    --background: url("/assets/images/background/24.jpg") no-repeat center center / cover;
+}
+.fondoPhone25 {
+    --background: url("/assets/images/background/25.jpg") no-repeat center center / cover;
+}
+.fondoPhone26 {
+    --background: url("/assets/images/background/26.jpg") no-repeat center center / cover;
+}
+.fondoPhone27 {
+    --background: url("/assets/images/background/27.jpg") no-repeat center center / cover;
+}
+.fondoPhone28 {
+    --background: url("/assets/images/background/28.jpg") no-repeat center center / cover;
+}
+.fondoPhone29 {
+    --background: url("/assets/images/background/29.jpg") no-repeat center center / cover;
+}
+.fondoPhone30 {
+    --background: url("/assets/images/background/30.jpg") no-repeat center center / cover;
+}
+.fondoPhone31 {
+    --background: url("/assets/images/background/31.jpg") no-repeat center center / cover;
+}
+.fondoPhone32 {
+    --background: url("/assets/images/background/32.jpg") no-repeat center center / cover;
+}
+.fondoPhone33 {
+    --background: url("/assets/images/background/33.jpg") no-repeat center center / cover;
+}
+.fondoPhone34 {
+    --background: url("/assets/images/background/34.jpg") no-repeat center center / cover;
+}
+.fondoPhone35 {
+    --background: url("/assets/images/background/35.jpg") no-repeat center center / cover;
+}
+.fondoPhone36 {
+    --background: url("/assets/images/background/36.jpg") no-repeat center center / cover;
+}
+.fondoPhone37 {
+    --background: url("/assets/images/background/37.jpg") no-repeat center center / cover;
+}
+.fondoPhone38 {
+    --background: url("/assets/images/background/38.jpg") no-repeat center center / cover;
+}
+.fondoPhone39 {
+    --background: url("/assets/images/background/39.jpg") no-repeat center center / cover;
+}
+.fondoPhone40 {
+    --background: url("/assets/images/background/40.jpg") no-repeat center center / cover;
+}
+.fondoPhone41 {
+    --background: url("/assets/images/background/41.jpg") no-repeat center center / cover;
+}
+.fondoPhone42 {
+    --background: url("/assets/images/background/42.jpg") no-repeat center center / cover;
+}
+.fondoPhone43 {
+    --background: url("/assets/images/background/43.jpg") no-repeat center center / cover;
+}
+.fondoPhone44 {
+    --background: url("/assets/images/background/44.jpg") no-repeat center center / cover;
+}
+.fondoPhone45 {
+    --background: url("/assets/images/background/45.jpg") no-repeat center center / cover;
+}
+.fondoPhone46 {
+    --background: url("/assets/images/background/46.jpg") no-repeat center center / cover;
+}
+.fondoPhone47 {
+    --background: url("/assets/images/background/47.jpg") no-repeat center center / cover;
+}
+.fondoPhone48 {
+    --background: url("/assets/images/background/48.jpg") no-repeat center center / cover;
+}
+.fondoPhone49 {
+    --background: url("/assets/images/background/49.jpg") no-repeat center center / cover;
+}
+.fondoDesktop0 {
+    --background: url("/assets/images/background/desktop/0.jpg") no-repeat center center / cover;
+}
+.fondoDesktop1 {
+    --background: url("/assets/images/background/desktop/1.jpg") no-repeat center center / cover;
+}
+.fondoDesktop2 {
+    --background: url("/assets/images/background/desktop/2.jpg") no-repeat center center / cover;
+}
+.fondoDesktop3 {
+    --background: url("/assets/images/background/desktop/3.jpg") no-repeat center center / cover;
+}
+.fondoDesktop4 {
+    --background: url("/assets/images/background/desktop/4.jpg") no-repeat center center / cover;
+}
+.fondoDesktop5 {
+    --background: url("/assets/images/background/desktop/5.jpg") no-repeat center center / cover;
+}
+.fondoDesktop6 {
+    --background: url("/assets/images/background/desktop/6.jpg") no-repeat center center / cover;
+}
+.fondoDesktop7 {
+    --background: url("/assets/images/background/desktop/7.jpg") no-repeat center center / cover;
+}
+.fondoDesktop8 {
+    --background: url("/assets/images/background/desktop/8.jpg") no-repeat center center / cover;
+}
+.fondoDesktop9 {
+    --background: url("/assets/images/background/desktop/9.jpg") no-repeat center center / cover;
+}
+.fondoDesktop10 {
+    --background: url("/assets/images/background/desktop/10.jpg") no-repeat center center / cover;
+}
+.fondoDesktop11 {
+    --background: url("/assets/images/background/desktop/11.jpg") no-repeat center center / cover;
+}
+.fondoDesktop12 {
+    --background: url("/assets/images/background/desktop/12.jpg") no-repeat center center / cover;
+}
+.fondoDesktop13 {
+    --background: url("/assets/images/background/desktop/13.jpg") no-repeat center center / cover;
+}
+.fondoDesktop14 {
+    --background: url("/assets/images/background/desktop/14.jpg") no-repeat center center / cover;
+}
+.fondoDesktop15 {
+    --background: url("/assets/images/background/desktop/15.jpg") no-repeat center center / cover;
+}
+.fondoDesktop16 {
+    --background: url("/assets/images/background/desktop/16.jpg") no-repeat center center / cover;
+}
+.fondoDesktop17 {
+    --background: url("/assets/images/background/desktop/17.jpg") no-repeat center center / cover;
+}
+.fondoDesktop18 {
+    --background: url("/assets/images/background/desktop/18.jpg") no-repeat center center / cover;
+}
+.fondoDesktop19 {
+    --background: url("/assets/images/background/desktop/19.jpg") no-repeat center center / cover;
+}
+.fondoDesktop20 {
+    --background: url("/assets/images/background/desktop/20.jpg") no-repeat center center / cover;
+}
+.fondoDesktop21 {
+    --background: url("/assets/images/background/desktop/21.jpg") no-repeat center center / cover;
+}
+.fondoDesktop22 {
+    --background: url("/assets/images/background/desktop/22.jpg") no-repeat center center / cover;
+}
+.fondoDesktop23 {
+    --background: url("/assets/images/background/desktop/23.jpg") no-repeat center center / cover;
+}
+.fondoDesktop24 {
+    --background: url("/assets/images/background/desktop/24.jpg") no-repeat center center / cover;
+}
+.fondoDesktop25 {
+    --background: url("/assets/images/background/desktop/25.jpg") no-repeat center center / cover;
+}
+.fondoDesktop26 {
+    --background: url("/assets/images/background/desktop/26.jpg") no-repeat center center / cover;
+}
+.fondoDesktop27 {
+    --background: url("/assets/images/background/desktop/27.jpg") no-repeat center center / cover;
+}
+.fondoDesktop28 {
+    --background: url("/assets/images/background/desktop/28.jpg") no-repeat center center / cover;
+}
+.fondoDesktop29 {
+    --background: url("/assets/images/background/desktop/29.jpg") no-repeat center center / cover;
+}
+.fondoDesktop30 {
+    --background: url("/assets/images/background/desktop/30.jpg") no-repeat center center / cover;
+}
+.fondoDesktop31 {
+    --background: url("/assets/images/background/desktop/31.jpg") no-repeat center center / cover;
+}
+.fondoDesktop32 {
+    --background: url("/assets/images/background/desktop/32.jpg") no-repeat center center / cover;
+}
+.fondoDesktop33 {
+    --background: url("/assets/images/background/desktop/33.jpg") no-repeat center center / cover;
+}
+.fondoDesktop34 {
+    --background: url("/assets/images/background/desktop/34.jpg") no-repeat center center / cover;
+}
+.fondoDesktop35 {
+    --background: url("/assets/images/background/desktop/35.jpg") no-repeat center center / cover;
+}
+.fondoDesktop36 {
+    --background: url("/assets/images/background/desktop/36.jpg") no-repeat center center / cover;
+}
+.fondoDesktop37 {
+    --background: url("/assets/images/background/desktop/37.jpg") no-repeat center center / cover;
+}
+.fondoDesktop38 {
+    --background: url("/assets/images/background/desktop/38.jpg") no-repeat center center / cover;
+}
+.fondoDesktop39 {
+    --background: url("/assets/images/background/desktop/39.jpg") no-repeat center center / cover;
+}
+.fondoDesktop40 {
+    --background: url("/assets/images/background/desktop/40.jpg") no-repeat center center / cover;
+}
+.fondoDesktop41 {
+    --background: url("/assets/images/background/desktop/41.jpg") no-repeat center center / cover;
+}
+.fondoDesktop42 {
+    --background: url("/assets/images/background/desktop/42.jpg") no-repeat center center / cover;
+}
+.fondoDesktop43 {
+    --background: url("/assets/images/background/desktop/43.jpg") no-repeat center center / cover;
+}
+.fondoDesktop44 {
+    --background: url("/assets/images/background/desktop/44.jpg") no-repeat center center / cover;
+}
+.fondoDesktop45 {
+    --background: url("/assets/images/background/desktop/45.jpg") no-repeat center center / cover;
+}
+.fondoDesktop46 {
+    --background: url("/assets/images/background/desktop/46.jpg") no-repeat center center / cover;
+}
+.fondoDesktop47 {
+    --background: url("/assets/images/background/desktop/47.jpg") no-repeat center center / cover;
+}
+.fondoDesktop48 {
+    --background: url("/assets/images/background/desktop/48.jpg") no-repeat center center / cover;
+}
+.fondoDesktop49 {
+    --background: url("/assets/images/background/desktop/49.jpg") no-repeat center center / cover;
+}
+#fondoCSInicio {
+    --background: url("/assets/images/background/bg-2.jpg") no-repeat center center / cover; 
+}
+#fondoCSResidente {
+    --background: url("/assets/images/background/bg-4.jpg") no-repeat center center / cover; 
+}
+#fondoCSGuardia {
+    --background: url("/assets/images/background/bg-1.jpg") no-repeat center center / cover; 
+}
+#fondoCSPrivacidad {
+    --background: url("/assets/images/background/bg-0.jpg") no-repeat center center / cover; 
+}
+#fondoCSValores {
+    --background: url("/assets/images/background/bg-5.jpg") no-repeat center center / cover; 
+}
+#fondoCSDescarga {
+    --background: url("/assets/images/background/bg-6.jpg") no-repeat center center / cover; 
+}
+.hora {
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-weight: 150;
+    font-family: 'Roboto';
+    color: white;
+}
+.texto-fecha {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    color: white;
+}
+.titulo {
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 150;
+    font-family: 'Roboto';
+    color: white;
+}
+.subtitulo {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    color: white;
+}
+.texto-iconos {
+    font-size: 14px;
+    font-family: 'Roboto';
+    color: white;
+}
+.pb-9cm {
+    padding-bottom: 9cm;
+}
+.pt-1 {
+    padding-top: 10px;
+}
+.pt-2 {
+    padding-top: 20px;
+}
+.pt-3 {
+    padding-top: 30px;
+}
+.pt-4 {
+    padding-top: 40px;
+}
+.pt-5 {
+    padding-top: 50px;
+}
+.pt-6 {
+    padding-top: 60px;
+}
+.pt-7 {
+    padding-top: 70px;
+}
+.pt-8 {
+    padding-top: 80px;
+}
+.pt-9 {
+    padding-top: 90px;
+}
+.pt-10 {
+    padding-top: 100px;
+}
+.tam-12 {
+    font-size: 12px;
+}
+.tam-14 {
+    font-size: 14px;
+}
+.tam-16 {
+    font-size: 16px;
+}
+.transparent {
+    background: transparent !important;
+}
+.oscuro {
+    --color: rgba( 0, 0, 0, 0.5) !important;
+}
+.vertical {
+    vertical-align: middle;
+    align-items: center;
+}
+.letra-blanca {
+    color: white;
+}
+.letra-negra {
+    color: black;
+}
+.valor {
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-weight: 150;
+    font-family: 'Roboto';
+    color: black;
+}
+.cajaValor {
+    align-items: center;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.bordeError {
+    color: red($color: #f70202);
+}

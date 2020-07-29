@@ -1,5 +1,7 @@
 {
   "name": "monroyRamirez.cl",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

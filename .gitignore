@@ -6,8 +6,8 @@
 .tmp
 *.tmp
 *.tmp.*
-*.sublime-project
-*.sublime-workspace
+*.code-project
+*.code-workspace
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
@@ -29,3 +29,6 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+/resources
+/mivitrina
+/Documentos
